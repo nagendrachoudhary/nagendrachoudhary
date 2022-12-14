@@ -12,8 +12,8 @@
 ```javascript
 const Nagendra = {
   pronouns: "he" | "him",
-  code: [Javascript, java, HTML, CSS,Java],
-  tools: [React, Redux, Node],
+  code: [Javascript, java, HTML, CSS],
+  tools: [React, Redux, Node,Chakra UI],
   challenge:
     "I am doing the #100DaysOfCode challenge focused on react and javascript",
 };
