@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center" I'm Nagendra Choudhary, a full-time full-stack developer </div>  
+### <div align="center" I'm Nagendra Choudhary, a full-time full-stack developer' </div>  
   
 
 - 🌱 I’m currently learning react and redux  
