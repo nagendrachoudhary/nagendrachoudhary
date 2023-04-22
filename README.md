@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center" image="https://camo.githubusercontent.com/29fd3dc9175d5bac42f835146c1f7fcafe97ce20212b79f124b3492a40d04e12/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313634383635373530363230362f445254314c7a6e4e4c2e6769663f773d3136303026683d383430266669743d63726f702663726f703d656e74726f7079266175746f3d666f726d61742c636f6d7072657373266769662d713d363026666f726d61743d7765626d">I'm Nagendra Choudhary, a full-time full-stack developer </div>  
+### <div align="center" I'm Nagendra Choudhary, a full-time full-stack developer </div>  
   
 
 - 🌱 I’m currently learning react and redux  
