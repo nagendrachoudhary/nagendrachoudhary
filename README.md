@@ -103,13 +103,13 @@
 <br/>  
 
 <div align="center">
-[BohemianTraders](https://fanciful-genie-644b2c.netlify.app/)
+[BohemianTraders](url=https://fanciful-genie-644b2c.netlify.app/)
   <br />
-[LARQ](https://adorable-tiramisu-d6b5e7.netlify.app)
+[LARQ](url=https://adorable-tiramisu-d6b5e7.netlify.app)
   <br />
-[Swiggy](https://teal-smakager-17bbf3.netlify.app/)
+[Swiggy](url=https://teal-smakager-17bbf3.netlify.app/)
   <br />
-[Quora](https://heartfelt-llama-580bb7.netlify.app)
+[Quora](url=https://heartfelt-llama-580bb7.netlify.app)
 </div>
 <br />
 
