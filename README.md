@@ -104,9 +104,12 @@
 
 <div align="center">
 [BohemianTraders](https://fanciful-genie-644b2c.netlify.app/)
+  <br />
 [LARQ](https://adorable-tiramisu-d6b5e7.netlify.app)
+  <br />
 [Swiggy](https://teal-smakager-17bbf3.netlify.app/)
-[Quora]((https://heartfelt-llama-580bb7.netlify.app))
+  <br />
+[Quora](https://heartfelt-llama-580bb7.netlify.app)
 </div>
 <br />
 
