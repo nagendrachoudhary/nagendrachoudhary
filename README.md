@@ -79,7 +79,8 @@
 </div>  
   
 <div align="center">
-[BohemianTraders](https://fanciful-genie-644b2c.netlify.app/)
+[](/)
+  <a href="https://fanciful-genie-644b2c.netlify.app">BohemianTraders</a>
   <br />
 [LARQ](https://adorable-tiramisu-d6b5e7.netlify.app)
   <br />
